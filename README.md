@@ -144,7 +144,7 @@ Please read Assignment Specification carefully, and make sure that you properly 
 To submit, make a tag to show that your code at the current commit is ready for your submission using the command:
 
 ```bash
-$ git tag -fa submission -m "Submission for Lab-01"
+$ git tag -fa submission -m "Submission for Lab-02"
 $ git push -f origin submission
 ```
 

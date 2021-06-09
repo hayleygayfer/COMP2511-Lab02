@@ -53,7 +53,7 @@ In addition to the above which you did in the tutorial, you will need to model t
 
 * Planes, which are able to fly and contain a list of passengers' names
 * Flying Cars (note that flying cars can still drive normally)
-* Time Travelling Flying Cars
+* Time Travelling Flying Cars 
 
 ### Task
 

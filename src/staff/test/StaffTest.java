@@ -20,8 +20,10 @@ public class StaffTest {
 
         StaffMember newStaff2 = new StaffMember("Junji Ito", 10000, "11/12/2001", "09/06/2021");
         Lecturer newLecturer2 = new Lecturer("Pennywise", 2000, "2/7/2003", "08/06/2021", "CSE", "A");
+        Lecturer newLecturerSame = new Lecturer("Junji Ito", 10000, "11/12/2001", "09/06/2021");
 
         System.out.println(newStaff.equals(newStaff2));
         System.out.println(newLecturer.equals(newLecturer2));
+        System.out.println(newStaff.equals(newLecturerSame));
     }
 }
